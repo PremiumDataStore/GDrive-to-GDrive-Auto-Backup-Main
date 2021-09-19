@@ -1,5 +1,5 @@
 # GDrive to GDrive Auto Backup
-this is automatic drive to drive backup 6 hourly.
+This is automatic drive to drive backup 6 hourly.
 
 Add this group backup-services@googlegroups.com to your teamdrives.
 
